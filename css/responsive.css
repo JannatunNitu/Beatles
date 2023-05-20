@@ -1,0 +1,213 @@
+@media (min-width:992px) and (max-width:1199px){
+    /* About section starts here */
+    #aboutUs .aboutCnt p {
+        padding-top: 45px;
+    }
+    /* About section ends here */
+
+    /* Service section starts here */
+    .serviceCnt p {
+        padding: 20px 8px 0 8px;
+    }
+    /* service section ends here */
+
+    /* team section starts here */
+    .teamImg .teamOverlay ul {
+        margin-top: 13px;
+    }
+    .teamImg .teamOverlay ul li {
+        padding: 5px 20px;
+    }
+    /* team section ends here */
+
+    /* testimonial section starts here */
+    .test_container .testCnt .testimgCnt::before {
+        left: 47%;
+    }
+    /* testimonial section ends here */
+    
+    /* footer section starts here */
+    .footerLinks .Links1 ul li a {
+        font-size: 12px;
+    }
+    .footerContact .contact .Finfo ul li {
+        font-size: 13px;
+    }
+    /* footer section ends here */
+}
+
+@media (min-width:768px) and (max-width:991px){
+    /* Banner section starts here */
+    #Banner .bannerSection {
+        height: 500px;
+    }
+    #Banner .bannerSection .row{
+        height: 500px;
+    }
+    /* Banner section ends here */
+
+    /* About section starts here */
+    #aboutUs {
+        padding: 30px 0 15px 0;
+    }
+    #aboutUs .aboutCnt p {
+        font-size: 12px;
+        padding-top: 15px;
+    }
+    #aboutUs .aboutCnt p:last-child {
+        padding: 15px 0;
+    }
+    /* About section ends here */
+
+    /* service section start here */
+    .serviceCnt .overlayItem {
+        top: -40%;
+    }
+    .serviceCnt h3 {
+        font-size: 16px;
+    }
+    .serviceCnt p {
+        font-size: 12px;
+        padding: 20px 5px 0 5px;
+    }
+    /* service section ends here */
+
+    /* team section starts here */
+    #team {
+        padding: 20px 0;
+    }
+    .teamImg .teamOverlay ul {
+        margin-top: 16px;
+    }
+    .teamImg .teamOverlay ul li {
+        padding: 5px 15px;
+    }
+    .teamImg .teamOverlay ul li a {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+    .teamImg .teamOverlay ul li a {
+        font-size: 14px;
+    }
+    /* team section ends here */
+
+    /* testimonial section starts here */
+    #testimonial {
+        padding: 30px 0;
+    }
+    .test_container .testCnt .testimgCnt {
+        padding: 20px 20px;
+    }
+    .test_container .testCnt .testimgCnt::before {
+        left: 46%;
+    }
+    /* testimonial section ends here */
+
+    
+}
+@media (min-width:320px) and (max-width:767px){
+    /* header section starts here */
+    .headicons ul li a {
+    font-size: 11px;
+    line-height: 13px;
+    }
+    .headicons ul li {
+        padding: 0 10px;
+    }
+    /* header section ends here */
+
+    /* Banner section starts here */
+    #Banner .bannerSection {
+    height: 300px;
+    }
+       #Banner .bannerSection .row{
+        height: 300px;
+    }
+    #Banner .bannerCnt h4 {
+        font-size: 20px;
+    }
+    #Banner .bannerCnt h3 {
+        font-size: 30px;
+        padding: 10px 0 20px 0;
+    }
+    #Banner .bannerCnt p {
+        font-size: 11px;
+    }
+    #aboutUs .aboutCnt p {
+        font-size: 11px;
+        padding-top: 20px;
+    }
+    #aboutUs .aboutHeading {
+        margin-left: 140px;
+        margin-top: 30px;
+    }
+    #aboutUs {
+        padding: 30px 0 15px 0;
+    }
+    /* Banner section ends here */
+
+    /* service section starts here */
+    .serviceCnt {
+        margin-bottom: 55px;
+    }
+    #service {
+        padding: 15px 0;
+    }
+    /* service section ends here */
+
+    /* portfolio section starts here */
+    #portfolio {
+        padding: 15px 0;
+    }
+    /* portfolio section ends here */
+
+    /* team section starts here */
+    #team {
+        padding: 15px 0;
+    }
+    .teamImg .teamOverlay ul {
+        margin-top: 40px;
+    }
+    .teamImg .teamOverlay ul li {
+        padding: 20px 20px;
+    }
+    .teamImg .teamOverlay ul li a {
+        font-size: 20px;
+    }
+    /* team section ends here */
+
+    /* testimonial section starts here */
+    .test_container .testCnt .testimgCnt::before {
+        left: 46%;
+    }
+    .test_container .testCnt .testimgCnt {
+        padding: 20px 15px;
+    }
+    /* testimonial section ends here */
+
+    /* footer section starts here */
+    .commonFooter {
+        text-align: center;
+    }
+    .footerCnt .logoImg img{
+        margin-left: 130px;
+    }
+    .footerCnt p {
+        text-align: center;
+    }
+    .footerContact .Contactinfo {
+        margin-left: 72px;
+    }
+    .footerLinks .linkinfo{
+        margin-left: 83px;
+    }
+    /* footer section ends here */
+
+    /* copyright section starts here */
+    #copyright p {
+        font-size: 10px;
+    }
+    /* copyright section ends here */
+    
+}
